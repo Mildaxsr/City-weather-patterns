@@ -1,0 +1,2 @@
+**https://archive-api.open-meteo.com/v1/archive?latitude=55.7558&longitude=37.6173&start_date=2024-01-01&end_date=2024-12-31&daily=temperature_2m_mean,temperature_2m_min,temperature_2m_max,precipitation_sum&timezone=Europe/Moscow**
+``Мы перешли по этой ссылке, с нее взяли файл формата `json`, потом сконвертировали его в `csv` и у нас создалась таблица. Затем преобразовали данные и столбцы, сделали какой-никакой визуал``
